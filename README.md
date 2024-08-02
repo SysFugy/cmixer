@@ -1,4 +1,4 @@
-## CMixer - Minimalist pulseaudio mixer v1.0
+## CMixer - Minimalist pulseaudio mixer v1.0.1
 
 The program edits the volume of only the current audio output device, that's all the functionality
 
