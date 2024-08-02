@@ -8,4 +8,3 @@ else
 fi
 
 gcc -o cmixer main.c -lpulse
-$PRIVILEGE cp -r cmixer /usr/local/bin/
